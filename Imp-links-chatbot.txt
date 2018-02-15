@@ -1,0 +1,12 @@
+https://github.com/alfredfrancis/ai-chatbot-framework
+
+
+https://hackernoon.com/4-ways-to-manage-the-configuration-    ---config
+in-python-4623049e841b
+
+
+/home/ubuntu/.local/lib/python2.7/ ---python installed path
+
+
+http://norvig.com/spell-correct.html
+
