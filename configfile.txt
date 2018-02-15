@@ -1,0 +1,4 @@
+[file-config]
+data-path = C:\Users\Admin\Desktop\code-09-02\QAfile.csv
+sparse-matrix-path = C:\Users\Admin\Desktop\code-09-02\sparse_matrix.npy
+spell-correction-vocab-path = C:\Users\Admin\Desktop\code-09-02\big.txt
